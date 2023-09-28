@@ -10,11 +10,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://heartoftheearth.dk/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
                 href="https://heartoftheearth.dk/zh-cn/categories/"
                 />
@@ -27,11 +22,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://heartoftheearth.dk/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
                 href="https://heartoftheearth.dk/zh-cn/tags/"
                 />
@@ -41,11 +31,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://heartoftheearth.dk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://heartoftheearth.dk/ar/"
                 />
     <xhtml:link
                 rel="alternate"
