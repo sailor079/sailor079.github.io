@@ -6,6 +6,23 @@
         <description>Recent content in Tags on Vesuvius Harbor</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Stella</copyright><atom:link href="https://heartoftheearth.dk/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Stella</copyright>
+        <lastBuildDate>Sun, 01 Oct 2023 13:56:27 +0200</lastBuildDate><atom:link href="https://heartoftheearth.dk/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Daily life</title>
+        <link>https://heartoftheearth.dk/tags/daily-life/</link>
+        <pubDate>Sun, 01 Oct 2023 13:56:27 +0200</pubDate>
+        
+        <guid>https://heartoftheearth.dk/tags/daily-life/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Wrap-up</title>
+        <link>https://heartoftheearth.dk/tags/wrap-up/</link>
+        <pubDate>Sun, 01 Oct 2023 13:56:27 +0200</pubDate>
+        
+        <guid>https://heartoftheearth.dk/tags/wrap-up/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

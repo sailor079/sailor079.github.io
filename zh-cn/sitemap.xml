@@ -17,12 +17,32 @@
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/post/</loc>
     <lastmod>2023-10-02T22:53:26+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://heartoftheearth.dk/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://heartoftheearth.dk/zh-cn/post/"
+                />
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/p/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2023-10-02T22:53:26+02:00</lastmod>
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/p/23-%E4%B8%B0%E5%AE%9E%E6%9C%88%E6%9C%88%E6%9C%AB%E5%B0%8F%E7%BB%93/</loc>
     <lastmod>2023-10-01T13:56:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://heartoftheearth.dk/p/23-%E4%B8%B0%E5%AE%9E%E6%9C%88%E6%9C%88%E6%9C%AB%E5%B0%8F%E7%BB%93/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://heartoftheearth.dk/zh-cn/p/23-%E4%B8%B0%E5%AE%9E%E6%9C%88%E6%9C%88%E6%9C%AB%E5%B0%8F%E7%BB%93/"
+                />
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/categories/</loc>
     <lastmod>2023-10-01T13:56:27+02:00</lastmod>
@@ -39,9 +59,29 @@
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/tags/daily-life/</loc>
     <lastmod>2023-10-01T13:56:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://heartoftheearth.dk/tags/daily-life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://heartoftheearth.dk/zh-cn/tags/daily-life/"
+                />
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/categories/daily-life/</loc>
     <lastmod>2023-10-01T13:56:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://heartoftheearth.dk/categories/daily-life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://heartoftheearth.dk/zh-cn/categories/daily-life/"
+                />
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/tags/</loc>
     <lastmod>2023-10-01T13:56:27+02:00</lastmod>
@@ -58,11 +98,32 @@
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/tags/wrap-up/</loc>
     <lastmod>2023-10-01T13:56:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://heartoftheearth.dk/tags/wrap-up/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://heartoftheearth.dk/zh-cn/tags/wrap-up/"
+                />
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/categories/wrap-up/</loc>
     <lastmod>2023-10-01T13:56:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://heartoftheearth.dk/categories/wrap-up/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://heartoftheearth.dk/zh-cn/categories/wrap-up/"
+                />
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,7 +135,15 @@
                 href="https://heartoftheearth.dk/zh-cn/page/"
                 />
   </url><url>
-    <loc>https://heartoftheearth.dk/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://heartoftheearth.dk/zh-cn/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://heartoftheearth.dk/zh-cn/resources/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://heartoftheearth.dk/zh-cn/links/</loc>
+  </url><url>
+    <loc>https://heartoftheearth.dk/zh-cn/%E5%85%B3%E4%BA%8E-about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -83,7 +152,9 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://heartoftheearth.dk/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://heartoftheearth.dk/zh-cn/%E5%85%B3%E4%BA%8E-about/"
                 />
+  </url><url>
+    <loc>https://heartoftheearth.dk/zh-cn/search/</loc>
   </url>
 </urlset>
