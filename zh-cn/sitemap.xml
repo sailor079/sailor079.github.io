@@ -15,9 +15,6 @@
                 href="https://heartoftheearth.dk/zh-cn/"
                 />
   </url><url>
-    <loc>https://heartoftheearth.dk/zh-cn/p/smk%E7%9C%8B%E5%B1%95/</loc>
-    <lastmod>2023-10-07T22:06:35+02:00</lastmod>
-  </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/post/</loc>
     <lastmod>2023-10-07T22:06:35+02:00</lastmod>
     <xhtml:link
@@ -30,6 +27,9 @@
                 hreflang="zh-cn"
                 href="https://heartoftheearth.dk/zh-cn/post/"
                 />
+  </url><url>
+    <loc>https://heartoftheearth.dk/zh-cn/p/%E9%BB%91%E9%B8%A6%E7%89%87smk%E5%8D%81%E6%9C%88%E8%A7%82%E5%B1%95%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-10-07T22:06:35+02:00</lastmod>
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/tags/adhd/</loc>
     <lastmod>2023-10-07T20:34:40+02:00</lastmod>
@@ -69,7 +69,7 @@
     <loc>https://heartoftheearth.dk/zh-cn/categories/%E8%AF%AD%E8%A8%80-language/</loc>
     <lastmod>2023-10-07T20:34:40+02:00</lastmod>
   </url><url>
-    <loc>https://heartoftheearth.dk/zh-cn/p/%E7%AA%84%E9%97%A8-adhd%E4%B8%8E%E7%AC%AC%E4%BA%8C%E8%AF%AD%E8%A8%80%E5%90%AC%E5%8A%9B%E6%8F%90%E5%8D%87/</loc>
+    <loc>https://heartoftheearth.dk/zh-cn/p/%E7%AA%84%E9%97%A8-adhd%E4%B8%8E%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E6%8F%90%E5%8D%87/</loc>
     <lastmod>2023-10-07T20:34:40+02:00</lastmod>
   </url><url>
     <loc>https://heartoftheearth.dk/zh-cn/p/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B%E6%8C%87%E5%8D%97/</loc>
