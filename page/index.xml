@@ -5,112 +5,296 @@
         <link>https://heartoftheearth.dk/page/</link>
         <description>Recent content in Pages on 热港 | Vesuvius Harbor</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
+        <language>zh-cn</language>
         <copyright>Charon</copyright>
-        <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://heartoftheearth.dk/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About</title>
-        <link>https://heartoftheearth.dk/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://heartoftheearth.dk/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>创作 | Archives</title>
+        <link>https://heartoftheearth.dk/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://heartoftheearth.dk/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache Licence 2.0.
-
-    
-    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
-        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
-        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
-            fill=&#34;currentColor&#34;&gt;
-&lt;/svg&gt;&lt;/span&gt;
-
-
-&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark
-
-    
-    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
-        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
-        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
-            fill=&#34;currentColor&#34;&gt;
-&lt;/svg&gt;&lt;/span&gt;
-
-
-&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma
-
-    
-    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
-        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
-        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
-            fill=&#34;currentColor&#34;&gt;
-&lt;/svg&gt;&lt;/span&gt;
-
-
-&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop
-
-    
-    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
-        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
-        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
-            fill=&#34;currentColor&#34;&gt;
-&lt;/svg&gt;&lt;/span&gt;
-
-
-&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra
-
-    
-    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
-        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
-        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
-            fill=&#34;currentColor&#34;&gt;
-&lt;/svg&gt;&lt;/span&gt;
-
-
-&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper
-
-    
-    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
-        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
-        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
-            fill=&#34;currentColor&#34;&gt;
-&lt;/svg&gt;&lt;/span&gt;
-
-
-&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub
-
-    
-    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
-        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
-        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
-            fill=&#34;currentColor&#34;&gt;
-&lt;/svg&gt;&lt;/span&gt;
-
-
-&lt;/a&gt;.&lt;/p&gt;
+        <guid>https://heartoftheearth.dk/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>资料 | Resources</title>
+        <link>https://heartoftheearth.dk/resources/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://heartoftheearth.dk/resources/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://heartoftheearth.dk/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://heartoftheearth.dk/links/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>关于 | About</title>
+        <link>https://heartoftheearth.dk/%E5%85%B3%E4%BA%8E-about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://heartoftheearth.dk/%E5%85%B3%E4%BA%8E-about/</guid>
+        <description>&lt;h2 id=&#34;关于本人&#34;&gt;关于本人&lt;/h2&gt;
+&lt;p&gt;名字只是一个符号，你可以叫我作&lt;strong&gt;卡戎&lt;/strong&gt;，这是我很喜欢的一部西幻小说中的花名，金红如夏火。 ⚓️&lt;/p&gt;
+&lt;p&gt;漂泊在北欧读书，长期神游的缺觉鬼。&lt;/p&gt;
+&lt;p&gt;厨房杀手，但厨艺见长。绿植杀手，目前收养了一盆薄荷。梦中情猫是暹罗。&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;&lt;strong&gt;一些兴趣所在（清单逐渐增长）&lt;/strong&gt;：&lt;/summary&gt;
+    &lt;p&gt;    🖼️ 博物馆/美术馆/拉斐尔前派/慕夏&lt;/p&gt;
+&lt;p&gt;    📖 楚辞/曹植/李白/李贺&lt;/p&gt;
+&lt;p&gt;    📜 中土/冰与火之歌/希腊罗马神话/埃及神话/北欧神话&lt;/p&gt;
+&lt;p&gt;    🎬 星际牛仔/混沌武士/攻壳机动队/银河英雄传说/EVA/进击的巨人/JOJO/链锯人/犬王/今 敏所有作品&lt;/p&gt;
+&lt;p&gt;    🎵 古典乐/苏打绿/椎名林檎/裘德/Sting/Night Wish/Queen/坂本龙一&lt;/p&gt;
+&lt;p&gt;    🏃 徒步/越野跑/爵士/攀岩（后两者非常想学但还没有学）&lt;/p&gt;
+&lt;p&gt;    ✒️ 手写/彩墨收集&lt;/p&gt;
+&lt;p&gt;    🪴 逛二手商店/市集&lt;/p&gt;
+
+  &lt;/details&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;博客由来&#34;&gt;博客由来&lt;/h2&gt;
+&lt;p&gt;起名灵感是《火山挚恋》，一部我非常喜欢的纪录片。火山学家的故事之于我的意义恰如《银翼杀手》结尾那段被无数人注目的独白，当我观测过这样的样本，见过深渊之中岩浆令人屏息的美丽，知晓人如何凭借爱——对伴侣与自然的爱——超越尘世的黯淡疲惫，我便无法想象未曾见过这一切的人生。&lt;/p&gt;
+&lt;p&gt;Vesuvius，维苏威。公元前79年，意大利那不勒斯，维苏威火山喷发毁灭庞贝。我所尊敬的亚历山大·冯·洪堡曾三次登上这里。再就是作为古希腊罗马文化艺术加《JOJO黄金之风》的爱好者，姑且以此名向在座致敬。&lt;/p&gt;
+&lt;p&gt;Harbor，海港。我生长于沿海市镇，所在的市有很大的深水港；后在沪城求学，其繁华来由自不必提；至于如今所在的哥本哈根，其丹麦语名“København”源自于旧丹麦语“Køpmannæhafn”，竟也是”商人之港“。&lt;/p&gt;
+&lt;p&gt;如此算来，我的生活无意中是从这一个港口奔赴下一个。而惠特曼恰好同样写过：”做一个世界的水手，游遍所有的港口。“是以我永远热爱蛮荒与自然之力量，而开拓者最自由。&lt;/p&gt;
+&lt;p&gt;我的时间正在从旧日的伤损中重新开始流动。为此我决心持续写作，出于一种与加缪同频的乐观主义，希望以此对抗荒谬性长存的生活。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;运行与维护&#34;&gt;运行与维护&lt;/h2&gt;
+&lt;p&gt;本博客完全由本人建立，更新与维护。&lt;/p&gt;
+&lt;p&gt;本博客托管于&lt;a class=&#34;link&#34; href=&#34;https://pages.github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Pages
+
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+&lt;/svg&gt;&lt;/span&gt;
+
+
+&lt;/a&gt;平台，使用&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo
+
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+&lt;/svg&gt;&lt;/span&gt;
+
+
+&lt;/a&gt;生成静态站点，在&lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stack
+
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+&lt;/svg&gt;&lt;/span&gt;
+
+
+&lt;/a&gt;主题基础上进行细节装修，会不断增添新部件或改变布局。&lt;/p&gt;
+&lt;p&gt;发帖目前主要使用的语言为简体中文，英文版本暂且是在ChatGPT机翻基础上进行校对，日后会逐步练习使用繁体中文，英文和其他语言，如德文和丹麦文。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;历法&#34;&gt;历法&lt;/h2&gt;
+&lt;p&gt;本博客使用J.R.R.托尔金教授中土世界观下的努门诺尔历法记录生活日常，自周一至周日以命名及含义如下：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;日期&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;昆雅语名&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;含义&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;星期一&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Elenya&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;星辰之日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;星期二&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Anarya&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;太阳之日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;星期三&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Isilya&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;月亮之日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;星期四&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Aldëa&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;白树之日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;星期五&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Menelya&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;穹苍之日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;星期六&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Valanya (Tárion)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;维拉之日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;星期日&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Eärenya&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;大海之日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;月份则忽略其与第七纪元各月天数差异，仍然沿用其昆雅语名：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;月份&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;昆雅语名&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;含义&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;时长&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;第一天&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Yestarë&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;第一天&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;一月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Narvinyë&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;新日，新年&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;二月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nénimë&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;水之月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;三月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Súlimë&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;风之月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;四月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Víressë&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;树木萌芽之月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;五月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Lótessë&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;繁花之月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;六月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nárië&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;日照之月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;31日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;年中日&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Loëndë&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;年中日&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;七月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Cermië&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;不详&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;31日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;八月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Urimë&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;暑热之月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;九月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Yavannië&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;丰实之月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;十月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Narquelië&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;日消之月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;十一月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Hísimë&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;迷雾之月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;十二月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ringarë&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;寒霜之月&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;最后一天&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Mettarë&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;最后一天&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;因此，以2023年9月30日（星期六）为例，博客标题与正文中的日期将表示为&lt;/p&gt;
+&lt;p&gt;23 丰实月｜月末小结&lt;/p&gt;
+&lt;p&gt;30/09 维拉之日，晴&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索 | Search</title>
+        <link>https://heartoftheearth.dk/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://heartoftheearth.dk/search/</guid>
+        <description></description>
         </item>
         
     </channel>
