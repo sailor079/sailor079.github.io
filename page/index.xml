@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on 热港</title>
-        <link>https://heartoftheearth.dk/page/</link>
-        <description>Recent content in Pages on 热港</description>
+        <title>Pages on 热港 | Vesuvius Harbor</title>
+        <link>https://heartoftheearth.me/page/</link>
+        <description>Recent content in Pages on 热港 | Vesuvius Harbor</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Charon</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://heartoftheearth.dk/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://heartoftheearth.me/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>创作 | Archives</title>
-        <link>https://heartoftheearth.dk/archives/</link>
+        <link>https://heartoftheearth.me/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://heartoftheearth.dk/archives/</guid>
+        <guid>https://heartoftheearth.me/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>资料 | Resources</title>
-        <link>https://heartoftheearth.dk/resources/</link>
+        <link>https://heartoftheearth.me/resources/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://heartoftheearth.dk/resources/</guid>
+        <guid>https://heartoftheearth.me/resources/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://heartoftheearth.dk/links/</link>
+        <link>https://heartoftheearth.me/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://heartoftheearth.dk/links/</guid>
+        <guid>https://heartoftheearth.me/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -60,24 +60,42 @@
         </item>
         <item>
         <title>关于 | About</title>
-        <link>https://heartoftheearth.dk/%E5%85%B3%E4%BA%8E-about/</link>
+        <link>https://heartoftheearth.me/%E5%85%B3%E4%BA%8E-about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://heartoftheearth.dk/%E5%85%B3%E4%BA%8E-about/</guid>
+        <guid>https://heartoftheearth.me/%E5%85%B3%E4%BA%8E-about/</guid>
         <description>&lt;h2 id=&#34;关于本人&#34;&gt;关于本人&lt;/h2&gt;
-&lt;p&gt;名字只是一个符号，你可以叫我作&lt;strong&gt;卡戎&lt;/strong&gt;，这是我很喜欢的一部西幻小说中的花名，金红如夏火。 ⚓️&lt;/p&gt;
-&lt;p&gt;漂泊在北欧读书，长期神游的缺觉鬼。&lt;/p&gt;
-&lt;p&gt;厨房杀手，但厨艺见长。绿植杀手，目前收养了一盆薄荷。梦中情猫是暹罗。&lt;/p&gt;
+&lt;p&gt;名字只是一个符号，你可以叫我作&lt;strong&gt;卡戎&lt;/strong&gt;，这是我很喜欢的一部西幻小说中的花名，其花色金红，宛如夏火，主角是个会写诗的魔法士与刀者。 ⚓️&lt;/p&gt;
+&lt;p&gt;漂泊在北欧读书，长期神游的缺觉鬼。梦想是在欧洲成为前缀有Dr.的人，过上每天早上被暹罗猫吵醒的日子。&lt;/p&gt;
+&lt;p&gt;厨房杀手，但偶尔会做出成功的蛋糕。&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;&lt;strong&gt;目前成功的食物清单&lt;/strong&gt;：&lt;/summary&gt;
+    &lt;p&gt;    🥬 煎口蘑&lt;/p&gt;
+&lt;p&gt;    🥩🥚 烤鸡腿/烤鸭卷/红烧肉&lt;/p&gt;
+&lt;p&gt;    🥤 水果酸奶燕麦碗&lt;/p&gt;
+&lt;p&gt;    🍰 巴斯克/蛋挞&lt;/p&gt;
+
+  &lt;/details&gt;
+&lt;p&gt;二次元与文艺爱好者，杂而不精，但今后会尽力为所爱之物长期产出。&lt;/p&gt;
 &lt;details&gt;
     &lt;summary&gt;&lt;strong&gt;一些兴趣所在（清单逐渐增长）&lt;/strong&gt;：&lt;/summary&gt;
-    &lt;p&gt;    🖼️ 博物馆/美术馆/拉斐尔前派/慕夏&lt;/p&gt;
-&lt;p&gt;    📖 楚辞/曹植/李白/李贺&lt;/p&gt;
-&lt;p&gt;    📜 中土/冰与火之歌/希腊罗马神话/埃及神话/北欧神话&lt;/p&gt;
+    &lt;p&gt;    🖼️ 博物馆/美术馆/古希腊罗马建筑与雕塑&lt;/p&gt;
+&lt;p&gt;    📖 楚辞/庄周/曹丕&amp;amp;曹植/李白/李贺/姜夔&lt;/p&gt;
+&lt;p&gt;    🌊  博尔赫斯/加缪/马尔克斯/三岛由纪夫&lt;/p&gt;
+&lt;p&gt;    📜 中土/冰与火之歌/希腊罗马神话/北欧神话/埃及神话&lt;/p&gt;
 &lt;p&gt;    🎬 星际牛仔/混沌武士/攻壳机动队/银河英雄传说/EVA/进击的巨人/JOJO/链锯人/犬王/今 敏所有作品&lt;/p&gt;
-&lt;p&gt;    🎵 古典乐/苏打绿/椎名林檎/裘德/Sting/Night Wish/Queen/坂本龙一&lt;/p&gt;
-&lt;p&gt;    🏃 徒步/越野跑/爵士/攀岩（后两者非常想学但还没有学）&lt;/p&gt;
+&lt;p&gt;    🎵 古典乐/坂本龙一/苏打绿&amp;amp;吴青峰/蔡依林/中森明菜/椎名林檎/裘德&lt;/p&gt;
+&lt;p&gt;    🏃 徒步/越野跑/爵士/攀岩/射箭（后三者非常想学但还没有学）&lt;/p&gt;
 &lt;p&gt;    ✒️ 手写/彩墨收集&lt;/p&gt;
 &lt;p&gt;    🪴 逛二手商店/市集&lt;/p&gt;
+
+  &lt;/details&gt;
+&lt;p&gt;非常乐意您与我聊天与线下见面！&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;&lt;strong&gt;在下的联系方式放置于此&lt;/strong&gt;：&lt;/summary&gt;
+    &lt;p&gt;    🐧  1354423747&lt;/p&gt;
+&lt;p&gt;    📮 charonthesailor079@gmail.com&lt;/p&gt;
+&lt;p&gt;    💬 WhatsApp  +45 55262386&lt;/p&gt;
 
   &lt;/details&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -126,8 +144,8 @@
 &lt;/svg&gt;&lt;/span&gt;
 
 
-&lt;/a&gt;主题基础上进行细节装修，会不断增添新部件或改变布局。&lt;/p&gt;
-&lt;p&gt;发帖目前主要使用的语言为简体中文，英文版本暂且是在ChatGPT机翻基础上进行校对，日后会逐步练习使用繁体中文，英文和其他语言，如德文和丹麦文。&lt;/p&gt;
+&lt;/a&gt;主题基础上进行细节装修，使用会不断增添新部件或改变布局。&lt;/p&gt;
+&lt;p&gt;发帖目前主要使用的语言为简体中文，英文版本暂且是在ChatGPT机翻基础上进行校对，日后会逐步练习使用繁体中文，英文和其他语言。&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&#34;历法&#34;&gt;历法&lt;/h2&gt;
 &lt;p&gt;本博客使用J.R.R.托尔金教授中土世界观下的努门诺尔历法记录生活日常，自周一至周日以命名及含义如下：&lt;/p&gt;
@@ -281,8 +299,8 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;因此，以2023年9月30日（星期六）为例，博客标题与正文中的日期将表示为&lt;/p&gt;
-&lt;p&gt;23 丰实月｜月末小结&lt;/p&gt;
-&lt;p&gt;30/09 维拉之日，晴&lt;/p&gt;
+&lt;p&gt;2023 | 丰实之月｜月末小结&lt;/p&gt;
+&lt;p&gt;9th 丰实之月   维拉之日    ☀️&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -290,10 +308,10 @@
         </item>
         <item>
         <title>搜索 | Search</title>
-        <link>https://heartoftheearth.dk/search/</link>
+        <link>https://heartoftheearth.me/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://heartoftheearth.dk/search/</guid>
+        <guid>https://heartoftheearth.me/search/</guid>
         <description></description>
         </item>
         

@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://heartoftheearth.dk/en/categories/</loc>
+    <loc>https://heartoftheearth.me/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://heartoftheearth.dk/categories/"
+                href="https://heartoftheearth.me/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://heartoftheearth.dk/en/categories/"
+                href="https://heartoftheearth.me/en/categories/"
                 />
   </url><url>
-    <loc>https://heartoftheearth.dk/en/tags/</loc>
+    <loc>https://heartoftheearth.me/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://heartoftheearth.dk/tags/"
+                href="https://heartoftheearth.me/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://heartoftheearth.dk/en/tags/"
+                href="https://heartoftheearth.me/en/tags/"
                 />
   </url><url>
-    <loc>https://heartoftheearth.dk/en/</loc>
+    <loc>https://heartoftheearth.me/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://heartoftheearth.dk/"
+                href="https://heartoftheearth.me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://heartoftheearth.dk/en/"
+                href="https://heartoftheearth.me/en/"
                 />
   </url>
 </urlset>

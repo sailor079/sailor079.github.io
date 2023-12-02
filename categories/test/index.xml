@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Test on 热港</title>
-        <link>https://heartoftheearth.dk/categories/test/</link>
-        <description>Recent content in Test on 热港</description>
+        <title>Test on 热港 | Vesuvius Harbor</title>
+        <link>https://heartoftheearth.me/categories/test/</link>
+        <description>Recent content in Test on 热港 | Vesuvius Harbor</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Charon</copyright><atom:link href="https://heartoftheearth.dk/categories/test/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Charon</copyright><atom:link href="https://heartoftheearth.me/categories/test/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
