@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://heartoftheearth.me/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://heartoftheearth.me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://heartoftheearth.me/en/"
+                />
+  </url><url>
     <loc>https://heartoftheearth.me/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,18 +36,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://heartoftheearth.me/en/tags/"
-                />
-  </url><url>
-    <loc>https://heartoftheearth.me/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://heartoftheearth.me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://heartoftheearth.me/en/"
                 />
   </url>
 </urlset>
