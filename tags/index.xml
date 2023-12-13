@@ -7,7 +7,31 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Charon</copyright>
-        <lastBuildDate>Sun, 10 Dec 2023 01:56:27 +0200</lastBuildDate><atom:link href="https://heartoftheearth.me/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 13 Dec 2023 01:04:14 +0100</lastBuildDate><atom:link href="https://heartoftheearth.me/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Coding</title>
+        <link>https://heartoftheearth.me/tags/coding/</link>
+        <pubDate>Wed, 13 Dec 2023 01:04:14 +0100</pubDate>
+        
+        <guid>https://heartoftheearth.me/tags/coding/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>LeetCode ProbList</title>
+        <link>https://heartoftheearth.me/tags/leetcode-problist/</link>
+        <pubDate>Wed, 13 Dec 2023 01:04:14 +0100</pubDate>
+        
+        <guid>https://heartoftheearth.me/tags/leetcode-problist/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Theory</title>
+        <link>https://heartoftheearth.me/tags/theory/</link>
+        <pubDate>Mon, 11 Dec 2023 16:24:12 +0100</pubDate>
+        
+        <guid>https://heartoftheearth.me/tags/theory/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>推荐 | Recommendation</title>
         <link>https://heartoftheearth.me/tags/%E6%8E%A8%E8%8D%90-recommendation/</link>
         <pubDate>Sun, 10 Dec 2023 01:56:27 +0200</pubDate>
@@ -24,11 +48,19 @@
         <description></description>
         </item>
         <item>
-        <title>漫谈 | About Animes</title>
-        <link>https://heartoftheearth.me/tags/%E6%BC%AB%E8%B0%88-about-animes/</link>
+        <title>动漫 | Comics &amp; Animes</title>
+        <link>https://heartoftheearth.me/tags/%E5%8A%A8%E6%BC%AB-comics-animes/</link>
         <pubDate>Mon, 20 Nov 2023 02:03:23 +0100</pubDate>
         
-        <guid>https://heartoftheearth.me/tags/%E6%BC%AB%E8%B0%88-about-animes/</guid>
+        <guid>https://heartoftheearth.me/tags/%E5%8A%A8%E6%BC%AB-comics-animes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>评论 | Comments</title>
+        <link>https://heartoftheearth.me/tags/%E8%AF%84%E8%AE%BA-comments/</link>
+        <pubDate>Mon, 20 Nov 2023 02:03:23 +0100</pubDate>
+        
+        <guid>https://heartoftheearth.me/tags/%E8%AF%84%E8%AE%BA-comments/</guid>
         <description></description>
         </item>
         <item>
