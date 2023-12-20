@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://heartoftheearth.me/</loc>
-    <lastmod>2023-12-13T01:04:14+01:00</lastmod>
+    <lastmod>2023-12-20T23:24:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,12 @@
                 hreflang="zh-cn"
                 href="https://heartoftheearth.me/"
                 />
+  </url><url>
+    <loc>https://heartoftheearth.me/p/%E5%85%AB%E5%8F%B7%E5%BC%A6%E6%AD%8C%E8%AF%8D%E9%9B%86%E5%B9%B6%E5%88%80%E5%A6%82%E6%B0%B4%E5%AD%98%E6%A1%A3a/</loc>
+    <lastmod>2023-12-20T23:24:33+01:00</lastmod>
+  </url><url>
+    <loc>https://heartoftheearth.me/post/</loc>
+    <lastmod>2023-12-20T23:24:33+01:00</lastmod>
   </url><url>
     <loc>https://heartoftheearth.me/p/coding-tango-hashing-in-java/</loc>
     <lastmod>2023-12-13T01:04:14+01:00</lastmod>
@@ -38,9 +44,6 @@
     <lastmod>2023-12-13T01:04:14+01:00</lastmod>
   </url><url>
     <loc>https://heartoftheearth.me/categories/math-programming/</loc>
-    <lastmod>2023-12-13T01:04:14+01:00</lastmod>
-  </url><url>
-    <loc>https://heartoftheearth.me/post/</loc>
     <lastmod>2023-12-13T01:04:14+01:00</lastmod>
   </url><url>
     <loc>https://heartoftheearth.me/tags/</loc>
