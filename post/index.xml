@@ -7,13 +7,138 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Charon</copyright>
-        <lastBuildDate>Wed, 20 Dec 2023 23:24:33 +0100</lastBuildDate><atom:link href="https://heartoftheearth.me/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>〔八号弦〕歌词集《并刀如水》存档（A）</title>
-        <link>https://heartoftheearth.me/p/%E5%85%AB%E5%8F%B7%E5%BC%A6%E6%AD%8C%E8%AF%8D%E9%9B%86%E5%B9%B6%E5%88%80%E5%A6%82%E6%B0%B4%E5%AD%98%E6%A1%A3a/</link>
+        <lastBuildDate>Thu, 21 Dec 2023 14:32:45 +0100</lastBuildDate><atom:link href="https://heartoftheearth.me/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>&lt;Black Queen&gt; C&#43;&#43; for Beginners</title>
+        <link>https://heartoftheearth.me/p/black-queen-c-for-beginners/</link>
+        <pubDate>Thu, 21 Dec 2023 14:32:45 +0100</pubDate>
+        
+        <guid>https://heartoftheearth.me/p/black-queen-c-for-beginners/</guid>
+        <description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;With the help of ChatGPT 4, here&amp;rsquo;s a structured outline for beginners familiar with &lt;strong&gt;Java&lt;/strong&gt; to learn C++, including practice exercises and project ideas, which could assist you in your learning journey!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-1-2-getting-started-with-c&#34;&gt;Week 1-2: Getting Started with C++&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: Basics of C++ (syntax, variables, data types, operators)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Write simple programs using variables, data types, and operators.&lt;/li&gt;
+&lt;li&gt;Convert basic Java programs to C++.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: Simple calculator to perform basic arithmetic operations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-3-4-control-structures-and-functions&#34;&gt;Week 3-4: Control Structures and Functions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: If-else, loops, functions, &lt;u&gt;recursion&lt;/u&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Create programs with different control structures.&lt;/li&gt;
+&lt;li&gt;Implement recursive functions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: A &lt;u&gt;command-line quiz game&lt;/u&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-5-6-object-oriented-programming&#34;&gt;Week 5-6: Object-Oriented Programming&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: Classes, objects, inheritance, polymorphism&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Design classes and objects.&lt;/li&gt;
+&lt;li&gt;Implement a simple inheritance hierarchy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: Basic inventory management system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-7-8-pointers-references-and-dynamic-memory&#34;&gt;Week 7-8: Pointers, References, and Dynamic Memory&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: Pointers, references, dynamic memory allocation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Practice pointer arithmetic.&lt;/li&gt;
+&lt;li&gt;Implement dynamic arrays.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: Simple memory management utility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-9-10-standard-template-library-stl&#34;&gt;Week 9-10: Standard Template Library (STL)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: Vectors, lists, sets, maps, iterators, algorithms&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Use various containers and algorithms from the STL.&lt;/li&gt;
+&lt;li&gt;Implement a sorting algorithm using iterators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: Contact management system using maps and sets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-11-12-advanced-topics&#34;&gt;Week 11-12: Advanced Topics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: File I/O, exception handling, templates&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Read and write data to files.&lt;/li&gt;
+&lt;li&gt;Implement custom exception handling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: File-based data storage system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-13-14-intermediate-projects&#34;&gt;Week 13-14: Intermediate Projects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project Ideas&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;A simple text editor.&lt;/li&gt;
+&lt;li&gt;A basic graphical application using a library like Qt or SFML.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-15-16-advanced-concepts&#34;&gt;Week 15-16: Advanced Concepts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: Multithreading, advanced templates, and C++11/14/17 features&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Implement a multi-threaded application.&lt;/li&gt;
+&lt;li&gt;Explore lambda expressions, auto keyword, and smart pointers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: A concurrent task manager.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-17-20-capstone-project&#34;&gt;Week 17-20: Capstone Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: Develop a larger project combining all the concepts learned. Examples could be a simple game, a personal finance manager, or a small social media platform.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;continuous-practice&#34;&gt;Continuous Practice:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LeetCode and Coding Challenges&lt;/strong&gt;: Regularly practice on LeetCode in C++.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contribute to Open Source&lt;/strong&gt;: Contribute to open-source projects on GitHub to gain real-world experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;additional-tips&#34;&gt;Additional Tips:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Documentation&lt;/strong&gt;: Regularly read and refer to C++ documentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code Reviews&lt;/strong&gt;: Get your code reviewed by peers or mentors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stay Updated&lt;/strong&gt;: Follow C++ blogs, podcasts, and community updates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;This outline is just a guideline; feel free to adjust it based on your pace and interest areas. Happy coding!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>〔八号弦〕歌词集《并刀如水》进度存档</title>
+        <link>https://heartoftheearth.me/p/%E5%85%AB%E5%8F%B7%E5%BC%A6%E6%AD%8C%E8%AF%8D%E9%9B%86%E5%B9%B6%E5%88%80%E5%A6%82%E6%B0%B4%E8%BF%9B%E5%BA%A6%E5%AD%98%E6%A1%A3/</link>
         <pubDate>Wed, 20 Dec 2023 23:24:33 +0100</pubDate>
         
-        <guid>https://heartoftheearth.me/p/%E5%85%AB%E5%8F%B7%E5%BC%A6%E6%AD%8C%E8%AF%8D%E9%9B%86%E5%B9%B6%E5%88%80%E5%A6%82%E6%B0%B4%E5%AD%98%E6%A1%A3a/</guid>
-        <description>&lt;p&gt; &lt;/p&gt;
+        <guid>https://heartoftheearth.me/p/%E5%85%AB%E5%8F%B7%E5%BC%A6%E6%AD%8C%E8%AF%8D%E9%9B%86%E5%B9%B6%E5%88%80%E5%A6%82%E6%B0%B4%E8%BF%9B%E5%BA%A6%E5%AD%98%E6%A1%A3/</guid>
+        <description>&lt;img src="https://heartoftheearth.me/img/20231220.jpg" alt="Featured image of post 〔八号弦〕歌词集《并刀如水》进度存档" /&gt;&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;从前年断断续续写到今年的几首词。最初的想法是做成一个概念统一的词集，但是显然一直在鸽。既然如此索性把已经写好的放在这里，也是勉励自己慢慢开始写新的词，顺便思考概念的完成度。&lt;/p&gt;
 &lt;p&gt;因为是歌词集，然后我又没有点过作曲技能，只能姑且想象旋律的状态，总之希望能在音乐色彩和词韵自身美感之间寻找一个平衡。&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -156,11 +281,11 @@
 </description>
         </item>
         <item>
-        <title>&lt;Coding Tango&gt; Hashing in Java</title>
-        <link>https://heartoftheearth.me/p/coding-tango-hashing-in-java/</link>
+        <title>&lt;Black Queen&gt; Hashing in Java</title>
+        <link>https://heartoftheearth.me/p/black-queen-hashing-in-java/</link>
         <pubDate>Wed, 13 Dec 2023 01:04:14 +0100</pubDate>
         
-        <guid>https://heartoftheearth.me/p/coding-tango-hashing-in-java/</guid>
+        <guid>https://heartoftheearth.me/p/black-queen-hashing-in-java/</guid>
         <description>&lt;p&gt;In Java, the &lt;code&gt;java.util&lt;/code&gt; package provides various hash-based data structures, such as &lt;code&gt;HashMap&lt;/code&gt;, &lt;code&gt;HashSet&lt;/code&gt;, and &lt;code&gt;HashTable&lt;/code&gt;. These structures use hashing to store and retrieve elements efficiently. Below is an overview of the most commonly used hash-based data structures and how to use them:&lt;/p&gt;
 &lt;h3 id=&#34;hashmap&#34;&gt;HashMap&lt;/h3&gt;
 &lt;p&gt;A &lt;code&gt;HashMap&lt;/code&gt; stores &lt;strong&gt;key-value pairs&lt;/strong&gt;. It allows for &lt;strong&gt;fast retrieval of values based on their keys&lt;/strong&gt;.&lt;/p&gt;
@@ -272,11 +397,11 @@
 </description>
         </item>
         <item>
-        <title>&lt;Coding Tango&gt; Recursion</title>
-        <link>https://heartoftheearth.me/p/coding-tango-recursion/</link>
+        <title>&lt;Black Queen&gt; Recursion</title>
+        <link>https://heartoftheearth.me/p/black-queen-recursion/</link>
         <pubDate>Tue, 12 Dec 2023 16:14:54 +0100</pubDate>
         
-        <guid>https://heartoftheearth.me/p/coding-tango-recursion/</guid>
+        <guid>https://heartoftheearth.me/p/black-queen-recursion/</guid>
         <description>&lt;p&gt;Just begin with an example: write a method in Java that calculates the &lt;strong&gt;2-based (binary)&lt;/strong&gt; representation of a number using &lt;strong&gt;recursion&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Takes an integer as input and returns a string representing its binary form. The recursive logic is based on &lt;strong&gt;dividing the number by 2&lt;/strong&gt; and &lt;strong&gt;building the binary representation from the remainder of this division.&lt;/strong&gt;&lt;/p&gt;
@@ -385,25 +510,27 @@
 </description>
         </item>
         <item>
-        <title>&lt;Theory Yarnball&gt; Turing Machine</title>
-        <link>https://heartoftheearth.me/p/theory-yarnball-turing-machine/</link>
+        <title>&lt;Reed Yarnball&gt; Turing Machine</title>
+        <link>https://heartoftheearth.me/p/reed-yarnball-turing-machine/</link>
         <pubDate>Mon, 11 Dec 2023 16:24:12 +0100</pubDate>
         
-        <guid>https://heartoftheearth.me/p/theory-yarnball-turing-machine/</guid>
+        <guid>https://heartoftheearth.me/p/reed-yarnball-turing-machine/</guid>
         <description>&lt;p&gt;Turing Machine&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>〔黄金枝〕“被窝友好杯”五年小众通俗小说大赏</title>
-        <link>https://heartoftheearth.me/p/%E9%BB%84%E9%87%91%E6%9E%9D%E8%A2%AB%E7%AA%9D%E5%8F%8B%E5%A5%BD%E6%9D%AF%E4%BA%94%E5%B9%B4%E5%B0%8F%E4%BC%97%E9%80%9A%E4%BF%97%E5%B0%8F%E8%AF%B4%E5%A4%A7%E8%B5%8F/</link>
+        <title>〔龙鳞镇纸〕“被窝友好杯”五年小众通俗小说大赏</title>
+        <link>https://heartoftheearth.me/p/%E9%BE%99%E9%B3%9E%E9%95%87%E7%BA%B8%E8%A2%AB%E7%AA%9D%E5%8F%8B%E5%A5%BD%E6%9D%AF%E4%BA%94%E5%B9%B4%E5%B0%8F%E4%BC%97%E9%80%9A%E4%BF%97%E5%B0%8F%E8%AF%B4%E5%A4%A7%E8%B5%8F/</link>
         <pubDate>Sun, 10 Dec 2023 01:56:27 +0200</pubDate>
         
-        <guid>https://heartoftheearth.me/p/%E9%BB%84%E9%87%91%E6%9E%9D%E8%A2%AB%E7%AA%9D%E5%8F%8B%E5%A5%BD%E6%9D%AF%E4%BA%94%E5%B9%B4%E5%B0%8F%E4%BC%97%E9%80%9A%E4%BF%97%E5%B0%8F%E8%AF%B4%E5%A4%A7%E8%B5%8F/</guid>
-        <description>&lt;img src="https://heartoftheearth.me/img/20231210.jpg" alt="Featured image of post 〔黄金枝〕“被窝友好杯”五年小众通俗小说大赏" /&gt;&lt;p&gt;受到香油们阅读分享的影响，我打算在NeoDB慢慢更新自己的读书记录并且链接到博客——此处的书多半是正经的书，虚构文学或者非虚构的社会历史类。明年我计划多读一些这样的正经书，也想加大英文阅读量，所以网文大概会看得少，趁此机会给过去看过的网文做一个安利帖。&lt;/p&gt;
+        <guid>https://heartoftheearth.me/p/%E9%BE%99%E9%B3%9E%E9%95%87%E7%BA%B8%E8%A2%AB%E7%AA%9D%E5%8F%8B%E5%A5%BD%E6%9D%AF%E4%BA%94%E5%B9%B4%E5%B0%8F%E4%BC%97%E9%80%9A%E4%BF%97%E5%B0%8F%E8%AF%B4%E5%A4%A7%E8%B5%8F/</guid>
+        <description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;受到香油们阅读分享的影响，我打算在NeoDB慢慢更新自己的读书记录并且链接到博客——此处的书多半是正经的书，虚构文学或者非虚构的社会历史类。明年我计划多读一些这样的正经书，也想加大英文阅读量，所以网文大概会看得少，趁此机会给过去看过的网文做一个安利帖。&lt;/p&gt;
 &lt;p&gt;我大概也从初中起看了很久的网络小说，起点上那种大长篇也有写得好的，但我不舍得花太多时间去看，晋江、长佩、豆瓣之类地方倒是挑挑拣拣收藏了一些未必在什么排名榜单上但出品质量有保障的作者。&lt;/p&gt;
 &lt;p&gt;近五年我看文的偏好变动不太大，除了变得更加杂食。相较于现实设定，个人更喜欢幻想类，但合我口味的非常难找。写得真实细腻不落俗的现实题材我也完全接受。按情感元素分，推荐的主要是bl和bg，因为一直没看到喜欢的gl。（生平磕得动的几款gl仍然只存在于霓虹动漫比如《魔法少女小圆》，非常遗憾……）&lt;/p&gt;
 &lt;p&gt;本人有强迫症，所以看了第一章感觉行文节奏生涩或者文笔差的会直接pass掉。（确实也因为起点男作者喜欢水字数且文笔差看得我头痛，所以好几次弃掉了听说情节很好的《诡秘之主》等等。）目前安利的都是女作者，文风稳定成熟而且有明显的个人特色。&lt;/p&gt;
 &lt;p&gt;那么，“被窝友好杯”五年小众通俗小说大赏现在开始！&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&#34;西幻神话&#34;&gt;西幻&amp;amp;神话&lt;/h2&gt;
 &lt;h3 id=&#34;迷途&#34;&gt;《迷途》&lt;/h3&gt;
 &lt;p&gt;作者：年终&lt;/p&gt;
@@ -568,12 +695,12 @@
 </description>
         </item>
         <item>
-        <title>〔2023 Hísimë〕月末小结</title>
-        <link>https://heartoftheearth.me/p/2023-h%C3%ADsim%C3%AB%E6%9C%88%E6%9C%AB%E5%B0%8F%E7%BB%93/</link>
+        <title>〔冰山烛台〕2023 Hísimë 月末小结</title>
+        <link>https://heartoftheearth.me/p/%E5%86%B0%E5%B1%B1%E7%83%9B%E5%8F%B02023-h%C3%ADsim%C3%AB-%E6%9C%88%E6%9C%AB%E5%B0%8F%E7%BB%93/</link>
         <pubDate>Fri, 01 Dec 2023 01:23:27 +0100</pubDate>
         
-        <guid>https://heartoftheearth.me/p/2023-h%C3%ADsim%C3%AB%E6%9C%88%E6%9C%AB%E5%B0%8F%E7%BB%93/</guid>
-        <description>&lt;img src="https://heartoftheearth.me/img/20231201.jpg" alt="Featured image of post 〔2023 Hísimë〕月末小结" /&gt;&lt;p&gt;1st Ringarë,   Menelya, ❄️&lt;/p&gt;
+        <guid>https://heartoftheearth.me/p/%E5%86%B0%E5%B1%B1%E7%83%9B%E5%8F%B02023-h%C3%ADsim%C3%AB-%E6%9C%88%E6%9C%AB%E5%B0%8F%E7%BB%93/</guid>
+        <description>&lt;p&gt;1st Ringarë,   Menelya, ❄️&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;​		我莫名其妙想起上周五的下午，我从药学院的食堂出来想要坐公交车回家，几百米路，已经望见车站了，忽然发现围巾不在我脖子上。真是不好意思，我们这样的人脑子里的弦就是时灵时不灵的。当时我在烦躁发了那么多邮件石沉大海的事，因此心情雪上加霜。而后我想了又想，确认自己坐下吃饭的时候围巾是被摘下来的，那么它绝对在路上或者食堂——假如没有人捡走它。&lt;/p&gt;
 &lt;p&gt;​		天气湿冷，我烦闷焦虑地往回走，一路上没有看到围巾。然后我回到食堂，回忆我坐的位置。围巾就落在椅子底下。&lt;/p&gt;
@@ -585,6 +712,7 @@
 &lt;p&gt;​		这周开始下雪，除了晴天之外我最喜欢雪天。夏天的时候觉得哥本哈根像封存水晶球摆件中的城市，现在看来仍然是。前几天的下午，看到教室外有云松软堆在低处，其上是淡青的天空，过桥时清冷而闪亮的水面，树与骑车人。一切都是瞬息，奇妙的瞬息。&lt;/p&gt;
 &lt;p&gt;​		圣诞的前摇很长。集市到处有，但是食物很贵。上周还是出去逛了，并且斥巨资买了一个可丽饼，因为之前从来没有吃过，巧克力酱太多，对我来说过甜了，快过节的时候再去逛一次好了，买一杯热红酒。&lt;/p&gt;
 &lt;p&gt;​		这就是我在异国第一个冬天的开始。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 </description>
         </item>
         <item>
@@ -637,30 +765,20 @@
 &lt;p&gt;​		众所周知，aot中的人名多来自德语，帕拉迪岛的建筑风格也取材自德国南部小镇诺德林根（Nördlingen），而在大量欧陆中世纪元素之中，“尤弥尔”，墙内历史中两千年前的始祖女神，所有巨人最初的母亲，她的名字却显然来自北欧神话。在《诗体埃达》等文本中，Ymir是世界最初出现的生灵，诞于埃利伐加尔冰河滴落的毒液，祂雌雄同体，是所有巨人的始祖。而后祂为奥丁等新神所杀，躯体的各个部分被用作塑造新的世界。&lt;/p&gt;
 &lt;p&gt;​		在我发现尤弥尔名字来源的时候，漫画已经连载到122话，两千年前始祖力量所有者的一生第一次被读者所知晓。历史任人涂抹，正如名为Historia的女孩命运任他人主宰。女神并非真正的神，这一点实在是意料之外情理之中——她是艾尔迪亚早期部族征战所得的年轻女奴。有一日她被其余奴隶指认放跑牲畜，她并不分辨，首领则宣布：你自由了。她奔逃向森林，因为自由的意思是成为被那些战士追逐的猎物，她的结局不是迷路饥渴而亡，就是力竭伤重，死于箭矢。她见到参天巨木，躲入树洞，跌落不知其深的水体，为奇异生物所寄生。私以为故事最初与最后的巨树也都与北欧神话中的世界树相契合，树的意象是生命轮回，也象征女性的孕育赋生之能。在我的想象中，那一幕确实极具神话色彩：那个两千年前的黄昏，所有的追兵都看到此生难忘的景象，苍穹下众鸟惊飞，烟尘四起，映照庞大人形拔地如山岳，那是本应濒死，却从羊水中重新诞育的神迹，她的身躯骨架裸露，峥嵘嶙峋，而后血肉新生，在她的脚下百年树木也轻易摧折如草芥。&lt;/p&gt;
 &lt;p&gt;​		尤弥尔是一个沉默，瘦小的奴隶少女，双眼隐没于阴影；而始祖的形貌却俨然一个美丽、荒蛮、可怖的，执大地万物权柄的母系神。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://heartoftheearth.me/img-1.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;img-1&#34;
-	
-	
-&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://heartoftheearth.me/img/20231120/img_1.jpg&#34; width=&#34;90%&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;The Founding Titan&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;​		而后她的命运没有改变。私以为这正是aot最残酷也最“好”的情节。首领利用她超前于时代的力量开路，架桥，垦荒，四处征战，最终成为一整个艾尔迪亚帝国的王。非常有趣的是，此前我听过《呼啸山庄》的一个文本分析视角，凯瑟琳与希斯克利夫的率然、反叛、纯粹令他们处于“女性”的处境，是不为工业文明时代所容的自然之子，所以他们这一对相似的灵魂死去，而这山庄之中他们周围的父亲、兄长、丈夫，再孱弱也是“男性”的，是注定驱散这荒野风雨的父权社会的文明与矫饰——在小说开头，向父亲索要小提琴的是儿子，索要马鞭的则是女儿。在aot中，这二元对立则更加鲜明，母系神的混沌力量被权力的所有者滥用于开垦与战争，前者征服自然，后者征服人。&lt;/p&gt;
 &lt;p&gt;​		志得意满的弗里茨王在王座上仍称她为“我的奴隶”，并且记住了她的名字尤弥尔——最有用的工具的名字，然后宣布这些功绩的奖赏是让她生下王的子嗣。此后数年，她不断战胜马莱也不断生育孩子。“始祖孕育了九大巨人。”这是神话的光辉，赋予生命与摧毁生命是一体两面，无论在哪一国哪一时代的神话文本里都是令人敬畏的重要权能。 但尤弥尔没有主宰战争与生育，她令艾尔迪亚长胜不败，但她承受战争；她身侧众子环绕，但她承受生育。&lt;/p&gt;
 &lt;p&gt;​		在受降仪式上，她与女儿们驯服沉默地站在王座之侧，她为王挡下长枪后倒地。生机从她的身体中逝去，巨人之力没有修复她。王再三命令他的奴隶起来为他服务，但她陷入长久沉睡，神识从此困于“路”中，在星空下的无垠沙漠开始无尽的踽踽独行。&lt;/p&gt;
 &lt;p&gt;​		于是她的身体被送上案台斩切，王没有浪费她最后的血肉，他让她的三个女儿玛丽亚、露丝、希娜吃下她全部的身体。第一次看到这里的时候，我有隐约不适，她的三个女儿神情麻木僵硬，双手捧起血肉吞食的情形我仿佛在哪里见过。后来我意识到，这个分镜很像文艺复兴前那些中世纪的宗教画作，人物面孔与动作僵硬不似真人，宗教的象征主义和功用性质远大于后来达芬奇、拉斐尔所显现的人体与人性美。尤弥尔之前的沉默面容正像一位失声的殉道者。在两千年前的时间线上，她从头到尾没有一句直接的台词，她活着时是被命令、被驱使，而在她死后的漫长岁月中则是被记载、被赞颂。此外，基督教之圣餐中的面包象征耶稣的圣体，而葡萄酒是耶稣的血，三女分食尤弥尔的画面同样有极为浓重的“献祭”意味。（ED中的分镜也证实了这一点。）弃绝战争与生育的责任，弃绝她身为妻子（实为奴隶）与母亲的职能，这是两千年前尤弥尔作出的唯一反抗，但这牺牲献祭的仪式令一个从生到死的奴隶非自愿地履行了本不属于她的义务——诸宗教常有的圣人流血割肉的牺牲义务，被驱使着庇佑剥削她的一族子民。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://heartoftheearth.me/img_2.jpeg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;img_2&#34;
-	
-	
-&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://heartoftheearth.me/img/20231120/img_2.jpg&#34; width=&#34;90%&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;Sacrifice as a saint&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;​		尤弥尔在“路”中注视着那光树分作三叉，又分作更多枝叶，她的女儿们生育后代，代代无尽，死时的脊椎被下一代吃下，始祖的力量被留存在艾尔迪亚族中，为了满足王的野心。在沙漠中，在无尽漫长的时间里，尤弥尔搬运沙为她的子民重塑巨人的身体。&lt;/p&gt;
 &lt;p&gt;​		直到那个她等待已久的人来到“路”中，对她说：“你既不是神也不是奴隶，你只是一个普通的人。”但是，——即使是一个凡人，也有作出选择的自由。所以她睁开眼睛。&lt;/p&gt;
 &lt;p&gt;​		我对结局不认同的理由之一就是将尤弥尔的意志归因为爱情，并非我看不起爱情，我尊重一切创作者的思想，我只是觉得一个故事的立意确有高下之分，谏山创在大篇幅拉起的巨幕之后埋藏着诸多撼动人心的东西，正如我上文所提及和未提及的，但认为尤弥尔对弗里茨王是爱确为败笔，我甚至更愿意接受尤弥尔望见部族首领亲吻新娘，向往的是爱情而非某个人，她渴望他们身为自由人的诸多行事之可能，而与所爱者缔结婚姻是这些自由中的一种。在叙说被剥夺者面前定义她为爱牺牲，这让第122话，这两千年前一切的起始，和艾伦“将神、恶魔、奴隶重新审判为人“这一点变得毫无意义。&lt;/p&gt;
@@ -669,16 +787,11 @@
 &lt;p&gt;她的一生乏善可陈吗？她只是墙内的艾族平民。她的丈夫来自墙外的战胜国马莱，死守着墙外有人类，且文明科技远为先进的秘密。他的第一个孩子举报了艾族复权派，他的妻子被注射脊髓液推下城墙，他继承巨人之力来到墙内，结婚生子平凡度日。&lt;/p&gt;
 &lt;p&gt;​		我赞赏谏山创的一个原因，是他在反复论及“人的敌人是人”与“人的爱人是人”。格里沙继承进击之巨人的时候被枭告诫要“去爱墙内的人”，他此前完全忽视如何爱自己的孩子，因复国理想把吉克作为工具，这种原生家庭创伤在很大程度上促成了吉克设想一条绝对消极的最终解决方案：艾尔迪亚一族的原罪若要消解，唯有自我灭绝。&lt;/p&gt;
 &lt;p&gt;​	但卡尔拉天然地理解如何爱墙内的人，她从一开始就到达了格里沙、吉克等知晓更高一层真相的墙外人最后才明白的终点。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://heartoftheearth.me/img_3.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;img_3&#34;
-	
-	
-&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://heartoftheearth.me/img/20231120/img_3.jpg&#34; width=&#34;80%&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;The blessing from a mother&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;​		她抱着刚出生的艾伦说：“这个孩子能诞生在这个世界，本身就很伟大了。”我不知道别的读者如何看这句话，但在我眼里，这句话是这前半篇幅中最重要的锚点之一。它无条件地认可人存在于世的价值，认可人自婴孩起未来的无限可能性。他将来或为救世主，或为恶魔之子，或为不甘之信念求生，或为身边所爱者死，但她感谢的是这一刻，一切可能性皆未落地的一刻，他已经成为她所有的奇迹。&lt;/p&gt;
 &lt;p&gt;​		没有这样的爱，年幼的艾伦不可能自然健康地向往外界，渴望去看书上的遥远奇景。这也正是我之后所要讲的，艾伦发动地鸣的原因与过去两千年的纷争有根本的不同，他比吉克幸运地拥有并理解爱，也因此理解困在路中的尤弥尔，而正是充分的爱令他作出极端的选择。&lt;/p&gt;
 &lt;p&gt;​		那么，“去爱墙内的人”是失败的复权派领袖对于格里沙过错的告诫，还是基于进击的巨人自身能力的预言呢？&lt;/p&gt;
@@ -719,20 +832,14 @@
 &lt;p&gt;​		艾伦去做了要死很多人的选择题，但不做选择题的人不应当为错的时代负罪。若秉持理性乐观主义是一种道义与勇气，调查兵团便精神不死。&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&#34;爱与死一样强大&#34;&gt;爱与死一样强大&lt;/h2&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;​		最后的最后，我请你听一首歌。泽野弘之为aot写过很多神曲，但在所有的歌中，我最喜欢Call o f Silence。它是尤弥尔与希斯特利亚在命运冰冷怀抱中短暂而盛大的自由，以有限的凡躯逾越无限，虽败亡而永存。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://heartoftheearth.me/img_4.gif&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;img_4&#34;
-	
-	
-&gt;&lt;/p&gt;
+&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/track/7k1HoUdskuBhyWvm7hPctM?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&amp;nbsp;
+&lt;p&gt;​		最后的最后，我想要请你听一首歌。泽野弘之为aot写过很多神曲，但在所有的歌中，我最喜欢Call of Silence。它是尤弥尔与希斯特利亚在命运冰冷怀抱中短暂而盛大的自由，以有限的凡躯逾越无限，虽败亡而永存。&lt;/p&gt;
+&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://heartoftheearth.me/img/20231120/img_4.jpg&#34; width=&#34;90%&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;Ymir revived that day.&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/center&gt;
+&lt;style&gt;   img {border-radius: 15px;} &lt;/style&gt;
 </description>
         </item>
         <item>

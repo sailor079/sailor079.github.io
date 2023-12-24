@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>编程语言 | Programming Language on 热港 | Vesuvius Harbor</title>
+        <link>https://heartoftheearth.me/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-programming-language/</link>
+        <description>Recent content in 编程语言 | Programming Language on 热港 | Vesuvius Harbor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Charon</copyright>
+        <lastBuildDate>Thu, 21 Dec 2023 14:32:45 +0100</lastBuildDate><atom:link href="https://heartoftheearth.me/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-programming-language/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>&lt;Black Queen&gt; C&#43;&#43; for Beginners</title>
+        <link>https://heartoftheearth.me/p/black-queen-c-for-beginners/</link>
+        <pubDate>Thu, 21 Dec 2023 14:32:45 +0100</pubDate>
+        
+        <guid>https://heartoftheearth.me/p/black-queen-c-for-beginners/</guid>
+        <description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;With the help of ChatGPT 4, here&amp;rsquo;s a structured outline for beginners familiar with &lt;strong&gt;Java&lt;/strong&gt; to learn C++, including practice exercises and project ideas, which could assist you in your learning journey!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-1-2-getting-started-with-c&#34;&gt;Week 1-2: Getting Started with C++&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: Basics of C++ (syntax, variables, data types, operators)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Write simple programs using variables, data types, and operators.&lt;/li&gt;
+&lt;li&gt;Convert basic Java programs to C++.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: Simple calculator to perform basic arithmetic operations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-3-4-control-structures-and-functions&#34;&gt;Week 3-4: Control Structures and Functions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: If-else, loops, functions, &lt;u&gt;recursion&lt;/u&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Create programs with different control structures.&lt;/li&gt;
+&lt;li&gt;Implement recursive functions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: A &lt;u&gt;command-line quiz game&lt;/u&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-5-6-object-oriented-programming&#34;&gt;Week 5-6: Object-Oriented Programming&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: Classes, objects, inheritance, polymorphism&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Design classes and objects.&lt;/li&gt;
+&lt;li&gt;Implement a simple inheritance hierarchy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: Basic inventory management system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-7-8-pointers-references-and-dynamic-memory&#34;&gt;Week 7-8: Pointers, References, and Dynamic Memory&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: Pointers, references, dynamic memory allocation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Practice pointer arithmetic.&lt;/li&gt;
+&lt;li&gt;Implement dynamic arrays.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: Simple memory management utility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-9-10-standard-template-library-stl&#34;&gt;Week 9-10: Standard Template Library (STL)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: Vectors, lists, sets, maps, iterators, algorithms&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Use various containers and algorithms from the STL.&lt;/li&gt;
+&lt;li&gt;Implement a sorting algorithm using iterators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: Contact management system using maps and sets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-11-12-advanced-topics&#34;&gt;Week 11-12: Advanced Topics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: File I/O, exception handling, templates&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Read and write data to files.&lt;/li&gt;
+&lt;li&gt;Implement custom exception handling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: File-based data storage system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-13-14-intermediate-projects&#34;&gt;Week 13-14: Intermediate Projects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project Ideas&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;A simple text editor.&lt;/li&gt;
+&lt;li&gt;A basic graphical application using a library like Qt or SFML.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-15-16-advanced-concepts&#34;&gt;Week 15-16: Advanced Concepts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: Multithreading, advanced templates, and C++11/14/17 features&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Implement a multi-threaded application.&lt;/li&gt;
+&lt;li&gt;Explore lambda expressions, auto keyword, and smart pointers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: A concurrent task manager.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;week-17-20-capstone-project&#34;&gt;Week 17-20: Capstone Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt;: Develop a larger project combining all the concepts learned. Examples could be a simple game, a personal finance manager, or a small social media platform.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;continuous-practice&#34;&gt;Continuous Practice:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LeetCode and Coding Challenges&lt;/strong&gt;: Regularly practice on LeetCode in C++.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contribute to Open Source&lt;/strong&gt;: Contribute to open-source projects on GitHub to gain real-world experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;additional-tips&#34;&gt;Additional Tips:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Documentation&lt;/strong&gt;: Regularly read and refer to C++ documentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code Reviews&lt;/strong&gt;: Get your code reviewed by peers or mentors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stay Updated&lt;/strong&gt;: Follow C++ blogs, podcasts, and community updates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;This outline is just a guideline; feel free to adjust it based on your pace and interest areas. Happy coding!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
