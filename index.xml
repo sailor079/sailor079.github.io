@@ -7,7 +7,2106 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Charon</copyright>
-        <lastBuildDate>Thu, 21 Dec 2023 14:32:45 +0100</lastBuildDate><atom:link href="https://heartoftheearth.me/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 31 Dec 2023 15:33:25 +0100</lastBuildDate><atom:link href="https://heartoftheearth.me/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>〔冰山烛台〕第七纪元 格里历2023年终总结</title>
+        <link>https://heartoftheearth.me/p/%E5%86%B0%E5%B1%B1%E7%83%9B%E5%8F%B0%E7%AC%AC%E4%B8%83%E7%BA%AA%E5%85%83-%E6%A0%BC%E9%87%8C%E5%8E%862023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+        <pubDate>Sun, 31 Dec 2023 15:33:25 +0100</pubDate>
+        
+        <guid>https://heartoftheearth.me/p/%E5%86%B0%E5%B1%B1%E7%83%9B%E5%8F%B0%E7%AC%AC%E4%B8%83%E7%BA%AA%E5%85%83-%E6%A0%BC%E9%87%8C%E5%8E%862023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+        <description>&lt;img src="https://heartoftheearth.me/img/20231231.jpg" alt="Featured image of post 〔冰山烛台〕第七纪元 格里历2023年终总结" /&gt;&lt;p&gt; &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;今年，希冀幸福将是徒劳的，通过工作去建造幸福才是关键。不要希冀任何事，而是要做点什么。不要等待着他人从头至尾地构建你的命运，尤其是当命运仍掌握在我们手中。《共和党人晚报》今年不会祝您幸福，因为它知道您的身体和精神正在经历重创。但它需要您保持必要的力量和清醒，去努力维持您自己的宁静与尊严。&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;阿尔贝·加缪，1940年1月1日&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我将这段祝词送给自己已经有两年，预计在很长一段时间内，我会一直引用这段话。2023年是自我和世界都剧烈动荡的年份，我第一次长时间离开我所厌倦的原生国家到陌生的土地生活。我尽力地摆脱了令人受苦却没理由的环境，心理创伤仍然在修复的过程中，记忆像沉水的沙子一样落下去，如果不是开始写博客和在象上不断讲话，它们可能失散得更快。&lt;/p&gt;
+&lt;p&gt;新年是只需要向前看的，那么向后看的事就在今年还没有过完的时候做吧。&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-01-01&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;111&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;一月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            休学在家，焦虑于申请学校
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-02&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;二月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            收到美国硕士offer，决定回上海打工
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-03&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;三月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            收到哥本哈根大学的offer，与去年封控期间采访过我的国外记者再次见面聊天
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-04&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;四月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            去医院检查发现乳腺导管瘤，听说良性概率比较大，但是其实心里很担心；第一次去演唱会，体验很难忘
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-05&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;五月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            确定六月做手术，最后一天去了cp29很开心
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-06&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;六月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            做完手术，然后回家休息，得知确实是良性
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-07&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;七月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            最后回学校办理休学，回家继续自学机器学习；做家教赚钱买电脑
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-08&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;八月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            换了Mac air；中旬出发，第一次来到欧洲，感觉是很漂亮的地方，第一次自己装家具
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-09&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;九月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            开学了，坚持过了适应期；美术馆都很漂亮；第一次见象友并被请吃饭了
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-10&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;十月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            放假在家待着学习，做了自己的简历；搭建博客学习中；外公去世，心情茫然
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-11&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;十一月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            给感兴趣方向的教授写邮件第一次有了回音；第一次考试，紧张得不行，但是成绩还好；放假还是基本待在家，去了现代艺术博物馆；第一次做蛋糕非常成功
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+&lt;/p&gt;
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2023-12&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;十二月&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            下学期的project有着落了；圣诞节气氛很浓，意外被图书馆圣诞活动认识的新朋友请去家里吃饭；独自看了指环王，去朋友家里看了别的电影；感觉眼睛有飞蚊症和视雪症，有点焦虑，明年初要去看医生
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;真是多病多灾的一年（笑）。坚持过来很了不起了。很多事情有点忘记了。因为要保护眼睛所以不打算打太多字，所以原本预定写更长的年终总结写不了了。我其实经常困惑而恐惧，因为学业，因为身体和心理状况，因为政治抑郁和未来的诸多不确定性，因为不断和家人通话，和网友、群友讲话，给自己找点事情做，或者看到其他好的事情发生，才幸运而勉强地坚持了下来。&lt;/p&gt;
+&lt;p&gt;我承诺自己要更好地生活。一方面，保持乐观是我们较为自由者的道义；另一方面，无论做什么，不做什么，没有人能阻挡时间。&lt;/p&gt;
+&lt;p&gt;新的一年打算控制使用电子产品的时间，实际上已经在做了。打算多练字和画画，重新练颜体和自学素描。想学习攀岩，别的新的运动也行！希望从科研项目中学到东西。认识更多朋友。去旅游，秋天去意大利！希望健康程度保持稳定，天气暖和起来就开始跑步！&lt;/p&gt;
+&lt;p&gt;大家，新年快乐。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&#34;text-align:right&#34;&gt;卡戎于东二区二零二三年最后一天的下午三点半&lt;/p&gt;
+
+</description>
+        </item>
+        <item>
         <title>&lt;Black Queen&gt; C&#43;&#43; for Beginners</title>
         <link>https://heartoftheearth.me/p/black-queen-c-for-beginners/</link>
         <pubDate>Thu, 21 Dec 2023 14:32:45 +0100</pubDate>
@@ -527,7 +2626,7 @@
         <description>&lt;img src="https://heartoftheearth.me/img/20231210.jpg" alt="Featured image of post 〔龙鳞镇纸〕“被窝友好杯”五年小众通俗小说大赏" /&gt;&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;受到香油们阅读分享的影响，我打算在NeoDB慢慢更新自己的读书记录并且链接到博客——此处的书多半是正经的书，虚构文学或者非虚构的社会历史类。明年我计划多读一些这样的正经书，也想加大英文阅读量，所以网文大概会看得少，趁此机会给过去看过的网文做一个安利帖。&lt;/p&gt;
 &lt;p&gt;我大概也从初中起看了很久的网络小说，起点上那种大长篇也有写得好的，但我不舍得花太多时间去看，晋江、长佩、豆瓣之类地方倒是挑挑拣拣收藏了一些未必在什么排名榜单上但出品质量有保障的作者。&lt;/p&gt;
-&lt;p&gt;近五年我看文的偏好变动不太大，除了变得更加杂食。相较于现实设定，个人更喜欢幻想类，但合我口味的非常难找。写得真实细腻不落俗的现实题材我也完全接受。按情感元素分，推荐的主要是bl和bg，因为一直没看到喜欢的gl。（生平磕得动的几款gl仍然只存在于霓虹动漫比如《魔法少女小圆》，非常遗憾……）&lt;/p&gt;
+&lt;p&gt;近五年我看文的偏好变动不太大，除了变得更加杂食。相较于现实设定，个人更喜欢幻想类，但合我口味的非常难找。写得真实细腻不落俗的现实题材我也完全接受。按情感元素分，推荐的主要是bl和bg，因为一直没看到喜欢的gl。（生平磕得动的几款gl仍然只存在于霓虹动漫比如魔法少女小圆蔷薇少女进击的巨人NANA少女革命乃至最近的芙莉莲，非常遗憾……）&lt;/p&gt;
 &lt;p&gt;本人有强迫症，所以看了第一章感觉行文节奏生涩或者文笔差的会直接pass掉。（确实也因为起点男作者喜欢水字数且文笔差看得我头痛，所以好几次弃掉了听说情节很好的《诡秘之主》等等。）目前安利的都是女作者，文风稳定成熟而且有明显的个人特色。&lt;/p&gt;
 &lt;p&gt;那么，“被窝友好杯”五年小众通俗小说大赏现在开始！&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -536,7 +2635,10 @@
 &lt;p&gt;作者：年终&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bl&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;p&gt;目前最喜欢的西幻长篇，没有之一。因此没有重看习惯的本人甚至三刷了。这是作者连载的第一部作品，也是她的作品里我最喜欢的一部。（其他几部会出现在其他题材的推荐中！）&lt;/p&gt;
 &lt;p&gt;主角是非典型的魔王受与非典型的勇者攻，一句话概括则是两位自以为萌新的满级大佬从老家小镇一路出发捡队友和宠物，最终拯救世界的成长故事。我说“非典型”，是《指环王》粉丝的朋友如果还记得那句“最后的援助来自弱者之手”，记得最终往岩浆里丢下戒指的是小小的霍比特人，那么我建议你试试看，它们都关于一些微小的善良与不妥协，在绝望中选择温柔的裂隙，而这正是希望何以成为希望。那些只在部分章节中出现的配角也丝毫不脸谱化，正说明了这一点。&lt;/p&gt;
@@ -546,7 +2648,14 @@
 &lt;p&gt;作者：荀予刃&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bl&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分：  &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+ 
+ &lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;p&gt;篇幅不算太长的有点文艺气质的西幻，优美而凛冽，并非以情节见长，因为很喜欢所以也重刷过。师生年上。攻受初见在教授魔法与诗歌的象牙塔中，教授与学生谈论诗歌，而不止于诗歌，还关于化不可能为可能的成为刀者的夙愿。斩断过去独自飘零的贵族后裔，游走在两国交战阴影中的间谍，在各为其主的战争中反复分离和重遇。最终尘埃落定，挚友与爱人皆有聚时，那首诗写：卡戎的锋影燃作夏火，冬青的新叶摇曳成诗，你可愿与我自此同行？——我当然愿意。&lt;/p&gt;
 &lt;p&gt;刀与诗歌，浪漫主义的一体两面，主角的刀一名玫瑰熔火，一名为卡戎，后者有金红的火焰，那正是一种夏日的花，也是他爱人头发的颜色。用生命去追逐刀锋的勇气，本身就是一见难忘的美丽。&lt;/p&gt;
@@ -554,84 +2663,120 @@
 &lt;p&gt;作者：黑糖煮酸梅&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分：⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分：&lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;p&gt;被很多人推过，但没看，五星预定，书评以后补！&lt;/p&gt;
 &lt;h3 id=&#34;血族反派今天也想咬我原名恶德罗曼&#34;&gt;《血族反派今天也想咬我》（原名《恶德罗曼》）&lt;/h3&gt;
 &lt;p&gt;作者：兮树&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分：⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分：&lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
-&lt;p&gt;作者专业方向似乎与欧洲神话和历史有关，偏爱描写细腻而纠缠的情感流动，这一点放在并不新鲜的吸血鬼题材上，却意外地令故事增色。从吸血鬼猎人伊芙琳与吸血鬼劳伦佐初见起，他们就在隔着天堑一般对立身份的致命吸引中共同坠落，杀戮，食欲，爱，最终谁都再也无法分清。举杯赞美痛快而恰到好处的be收尾，甜味就留给那些平行世界的番外吧。顺便也可以看看作者更早时候写的一些架空西方中世纪背景的作品。&lt;/p&gt;
+&lt;p&gt;本人目前唯一喜欢的血族故事。作者专业方向似乎与欧洲神话和历史有关，偏爱描写细腻而纠缠的情感流动，这一点放在并不新鲜的吸血鬼题材上，却意外地令故事增色。从吸血鬼猎人伊芙琳与吸血鬼劳伦佐初见起，恰如原文名所暗指的，他们就在隔着天堑一般对立身份的致命吸引中共同坠落，杀戮，食欲，爱，最终谁都再也无法分清。举杯赞美痛快而恰到好处的be收尾，甜味就留给那些平行世界的番外吧。顺便也可以看看作者更早时候写的一些架空西方中世纪背景的作品。&lt;/p&gt;
 &lt;h3 id=&#34;祂在海的另一边闭上了眼睛&#34;&gt;《祂在海的另一边闭上了眼睛》&lt;/h3&gt;
 &lt;p&gt;作者：饭卡&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：无cp&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
-&lt;p&gt;很可爱的三人组&lt;/p&gt;
+&lt;p&gt;很可爱的猫猫狗狗三人组孤岛寻亲微悬疑故事，本质上沾了点克系宗教，很少看无cp但是实在有趣。作者是很懂得如何在真实感极强的背景中加入奇妙人物的。但是第一部完结三年了，还有机会看到续集吗？（悲）&lt;/p&gt;
 &lt;h3 id=&#34;天竺奇谭&#34;&gt;《天竺奇谭》&lt;/h3&gt;
 &lt;p&gt;作者：青泥&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分：  &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
-&lt;p&gt;一部很早的作品，讲印度教神话中湿婆与萨蒂的爱情悲剧，也是我不愿再看第二遍的故事。文笔极好而情感极丰沛。唯有品尝过最深的幸福与痛苦，行走世间的无情无欲的神才学会慈悲。&lt;/p&gt;
+&lt;p&gt;一部很早的作品，讲印度教神话中湿婆与萨蒂还有其余神祇的爱情悲剧，也是我不愿再看第二遍的故事。掩卷后久久说不出话来。文笔极好而情感极丰沛。唯有品尝过最深的幸福与痛苦，行走世间的无情无欲的神才学会慈悲。&lt;/p&gt;
 &lt;h3 id=&#34;白雪金桃&#34;&gt;《白雪金桃》&lt;/h3&gt;
 &lt;p&gt;作者：免庖丁&lt;/p&gt;
 &lt;p&gt;阅读平台：海棠&lt;/p&gt;
 &lt;p&gt;情感类型：bl&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分：  &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
-&lt;p&gt;很喜欢的作者产出的R18作品，但实际上是融合了印度神话和欧洲中世纪历史的架空奇幻故事，对风物人情的描写极具真实感。人物塑造很老道，之前有看见她谈金庸写人的精髓，显然在此文中应用到位。少年神王与隐姓埋名放逐为奴隶的贵族骑士，二人之间的性之关系转变也与情感和权力之变化相关，很不走寻常路的作品。&lt;/p&gt;
-&lt;p&gt;作者对情节构思应该要求很高，也查过很多历史资料，目前还没有完结。&lt;/p&gt;
+&lt;p&gt;很喜欢的作者产出的R18作品，但实际上是融合了印度神话和欧洲中世纪历史的架空奇幻故事，对风物人情的描写极具真实感，还有战争相关描写，作者对情节构思应该要求很高，也查过很多历史资料，可以看得出对冷门题材的考据很辛苦了。人物塑造笔力很老道，之前有看见她谈金庸写人的精髓，显然在此文中应用到位。富饶热土的少年神王与隐姓埋名放逐为奴隶的北国贵族骑士，二人之间的性之关系转变也与情感和权力之变化相关，很不走寻常路的作品，请不要因为互攻情节错过它。&lt;/p&gt;
 &lt;h2 id=&#34;历史罗曼&#34;&gt;历史罗曼&lt;/h2&gt;
 &lt;h3 id=&#34;海妖&#34;&gt;《海妖》&lt;/h3&gt;
 &lt;p&gt;作者：饭卡&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分：  &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
-&lt;p&gt;作者早年写的文，到了今天也毫不逊色于很多同类型作品，对地中海和欧洲中世纪背景感兴趣的可以一试，作者对这段历史应该了解得很到位。挥舞镰刀收割性命的男装少女与赫赫有名的巴巴罗萨·海雷丁相遇后，在接踵而至的危险与机遇中成长为声震四海的“海妖”，她身世遭遇不凡，意志却极为坚韧，从一而终地主宰自己的命运迎向海风中的自由。&lt;/p&gt;
+&lt;p&gt;作者早年写的文，到了今天也毫不逊色于很多同类型作品，对地中海和欧洲中世纪背景感兴趣的可以一试，作者对这段历史应该了解得很到位。挥舞镰刀收割性命的男装少女尼克与赫赫有名的巴巴罗萨·海雷丁相遇后，在接踵而至的危险与机遇中成长为声震四海的“海妖”，她身世遭遇不凡，意志却极为坚韧，从一而终地主宰自己的命运迎向海风中的自由。比起bg感情线我确实更喜欢她自始至终选择自己道路的那一部分。&lt;/p&gt;
 &lt;h3 id=&#34;镀金岁月&#34;&gt;《镀金岁月》&lt;/h3&gt;
 &lt;p&gt;作者：苏浅浅喵&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分：  &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
-&lt;p&gt;我看过的最早的一部西方罗曼穿越文。&lt;/p&gt;
+&lt;p&gt;我看过的最早的一部西方罗曼穿越文。可以说是在符合时代背景的条件下仍然保有人物鲜活情感和可贵的“现代性”品格的典范。行文翻译腔是因为作者先构思了英文再翻译后下笔。且是少见且成功的POV写法。意外重生到上世纪初美国富商家族的女孩如何折服联姻对象英国公爵这样的浪漫故事，或许已经不是最重要的，更精彩的是她与诸多同时代女性，如何为她们“未来”和她的“过去”而奋斗。这时代如镀黄金熠熠生辉，而她是离开温室沐浴风雨天光的玫瑰。&lt;/p&gt;
 &lt;h3 id=&#34;翡冷翠海鸦&#34;&gt;《翡冷翠海鸦》&lt;/h3&gt;
 &lt;p&gt;作者：苏浅浅喵&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
-&lt;p&gt;风流剑客与传奇海盗，也是年轻女孩。作者不知是否会填坑……&lt;/p&gt;
+&lt;p&gt;风流剑客与传奇海盗，也是年轻女孩。四星预定。作者不知是否会填坑……&lt;/p&gt;
 &lt;h3 id=&#34;金山蝴蝶&#34;&gt;《金山蝴蝶》&lt;/h3&gt;
 &lt;p&gt;作者：&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
+&lt;p&gt;重生到上世纪三十年代的南国少女被辗转带往大洋彼岸的三藩市。她逐渐立足脚跟，得到亲情和友情，并与最初相遇的男主角相互动心。&lt;/p&gt;
 &lt;h3 id=&#34;向太阳坠落&#34;&gt;《向太阳坠落》&lt;/h3&gt;
 &lt;p&gt;作者：兮树&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分：&lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;h3 id=&#34;征服她的奴隶&#34;&gt;《征服她的奴隶》&lt;/h3&gt;
 &lt;p&gt;作者：兮树&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;h2 id=&#34;武侠仙侠&#34;&gt;武侠&amp;amp;仙侠&lt;/h2&gt;
 &lt;h3 id=&#34;剑阁闻铃&#34;&gt;《剑阁闻铃》&lt;/h3&gt;
 &lt;p&gt;作者：时镜&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;p&gt;本文还没有完结，但我毫不犹豫地决定推荐。我很少会看开局心智成熟度这么强的女主角，一般更喜欢成长流，但这一部确实是绝对意义上优秀的作品。可以看出作者有写好长篇的能力，虽然更新非常不稳定，但行文节奏很成熟，对人物矛盾冲突、弧光塑造以及重要剧情的起承转合都均衡地顾及到了。可能看过用刀用剑的主角太多，这一部女主角主修弓箭这个设定我私心非常喜欢。纵然主角有开局重生的优势，天外更有天，她在世家瓜分天下的时代意欲迎向最深恶的杀机与最难测的命运，直到剑阁之上的金铃终于为她而响。本文中几乎每个重要角色都需要面对的命题都可以归结为“天命不仁，你待如何”，破题本身就是自我成长的过程。&lt;/p&gt;
 &lt;p&gt;虽然后期应该会有感情发展，但目前主角三人组的默契情谊已经令人读来心神舒畅，为之动容，在下的建议就是你们三个人把日子过好比什么都重要（喂）。&lt;/p&gt;
@@ -639,38 +2784,56 @@
 &lt;p&gt;作者：饭卡&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;p&gt;坑还很浅，但出于对作者水平的全然信任五星预定。身处深宫受帝王盛宠的大唐万寿公主李宝珠，有一日忽然被“死亡”匆匆送入陵墓险被活埋。年轻神秘、武功出众的青衫江湖客韦训意外发现此事，与小沙弥师弟救下她。几人一路北行，意图寻找公主的兄长并寻得真相。&lt;/p&gt;
 &lt;p&gt;公主性格相当可爱，就像被捡回去养的流浪布偶猫，有养尊处优傲气的一面，同时又箭法高超，深谙庙堂规则，冷静敏锐，极有胆色。盗走“宝珠”的男主角与公主的相处很有趣，但目前明显不想让公主知道太多江湖险恶，有时谜语人，身份应当不一般。总之可以追一追连载！&lt;/p&gt;
 &lt;h3 id=&#34;狼镝&#34;&gt;《狼镝》&lt;/h3&gt;
 &lt;p&gt;作者：&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;h3 id=&#34;疏狂&#34;&gt;《疏狂》&lt;/h3&gt;
 &lt;p&gt;作者：&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bl&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;h3 id=&#34;秘方&#34;&gt;《秘方》&lt;/h3&gt;
 &lt;p&gt;作者：八条看雪&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：还没看，四星预定。&lt;/p&gt;
 &lt;h3 id=&#34;送神&#34;&gt;《送神》&lt;/h3&gt;
 &lt;p&gt;作者：年终&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;p&gt;不算狭义上的武侠，不如说是很特别的克系+武侠+解谜，融合了作者一贯的人外爱好与世界观特色。她一直在写两百章起步的长篇，这一部是相对短的（笑）。攻受两人一是濒死而求生，一是活太久而寻死，不解人心的欲子与不信人心的魔头，互骗结为师徒上路，创门派收下仆，在江湖掀起腥风血雨最后找到真相送走阴谋背后的“神”，顺便离经叛道地谈了恋爱（你家攻的性癖真是一如既往奇妙啊:D）。&lt;/p&gt;
 &lt;p&gt;我把它放在武侠分类还有一个原因是，我觉得武侠群像并不好写，要壮阔的意气与深邃的情义，传统的故事还往往需要主角学什么秘籍领悟什么道，从无名小辈一路升级成风流人物。但侠亦凡人，愈知晓天道无亲，愈要在乾坤之大，江湖庙堂之险中递出那一点对尘埃草木的怜惜，不忘记自己亦为尘埃草木时的心情。而这部做到了，除了悬疑部分过关，这里的配角塑造得都不落俗，让我久违地找回了中学时看武侠小说的心情。作者什么时候再写古代题材……&lt;/p&gt;
 &lt;h3 id=&#34;游刃&#34;&gt;《游刃》&lt;/h3&gt;
 &lt;p&gt;作者：&lt;/p&gt;
 &lt;p&gt;阅读平台：豆瓣&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;情感类型：bl&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;p&gt;我很喜欢的一款辣手刀客，&lt;/p&gt;
@@ -678,52 +2841,79 @@
 &lt;h3 id=&#34;金羁&#34;&gt;《金羁》&lt;/h3&gt;
 &lt;p&gt;作者：相荷明玉&lt;/p&gt;
 &lt;p&gt;阅读平台：豆瓣&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;h2 id=&#34;星际未来赛博朋克&#34;&gt;星际未来&amp;amp;赛博朋克&lt;/h2&gt;
 &lt;h3 id=&#34;海男之家女人的衣柜&#34;&gt;《海男之家，女人的衣柜》&lt;/h3&gt;
 &lt;p&gt;作者：马桶上的小孩&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：看到名字很难不点进来的作品。目前看过的赛博朋克世界观下的最佳，没有之一。除却high tech low life的基本要素，我一直很期待看到的人类与仿生人存在关系的探讨在其中以一种幽默冷峻、淋漓而深刻的&lt;/p&gt;
 &lt;h3 id=&#34;时空特工今天含泪做1了吗&#34;&gt;《时空特工今天含泪做1了吗》&lt;/h3&gt;
 &lt;p&gt;作者：曲水老师&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;h3 id=&#34;不驯之敌&#34;&gt;《不驯之敌》&lt;/h3&gt;
 &lt;p&gt;作者：骑鲸南去&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：考虑到篇幅，个人认为是世界观设定完成度较好的正经赛博朋克，，         没有给更多星纯粹只是珠玉在前而不是这一部本身有哪里特别不好。过于水到渠成的&lt;/p&gt;
 &lt;h3 id=&#34;末日快乐&#34;&gt;《末日快乐》&lt;/h3&gt;
 &lt;p&gt;作者：年终&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;h3 id=&#34;因何死于兰若寺&#34;&gt;《因何死于兰若寺》&lt;/h3&gt;
 &lt;p&gt;作者：&lt;/p&gt;
 &lt;p&gt;阅读平台：豆瓣&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;h2 id=&#34;普通古代爱情&#34;&gt;普通古代爱情&lt;/h2&gt;
 &lt;h3 id=&#34;朕和她&#34;&gt;《朕和她》&lt;/h3&gt;
 &lt;p&gt;作者：她与灯&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;h3 id=&#34;拍翻御史大夫&#34;&gt;《拍翻御史大夫》&lt;/h3&gt;
 &lt;p&gt;作者：爆走金鱼&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;h3 id=&#34;折娶弱腰&#34;&gt;《折娶弱腰》&lt;/h3&gt;
 &lt;p&gt;作者：再枯荣&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;p&gt;很犹豫推荐作者的哪部作品，她总能把文名和文案改成我非常不想点开的那种榜单爆款类型，但实际上写的尽是冷门佳作。文笔极为老到，文字流丽却不会繁冗到阻碍情节推动，反而与情感之细腻相得益彰。更难能可贵的是她很少写王公贵族事，而多是落魄甚至庸俗之人不染尘埃的感情，也不回避其中人性的杂质。甚至可以说有两三分张爱玲的风味，写红尘深处沾满尘土脂粉味道的男女爱恨，要写好极不容易。不迎合读者口味这一点令我尤其欣赏。&lt;/p&gt;
 &lt;p&gt;最后推荐了结局最凄美冷冽的一部，两个有亲人却亲缘薄如纸，心肠冷硬却偏偏在骗局里动心的人如何相爱，并得以疲倦而幸运地重逢。&lt;/p&gt;
@@ -732,41 +2922,62 @@
 &lt;p&gt;作者：再枯荣&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
 &lt;p&gt;作者的短篇合集，更新缓慢，推荐理由同上。&lt;/p&gt;
 &lt;h3 id=&#34;名侦探夏贵妃&#34;&gt;《名侦探夏贵妃》&lt;/h3&gt;
 &lt;p&gt;作者：衣带雪&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
-&lt;p&gt;推荐理由：幽默中透着点世事冰冷    纯爱&lt;/p&gt;
+&lt;p&gt;个人评分：&lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;推荐理由：&lt;/p&gt;
+&lt;p&gt;幽默中透着点世事冰冷的纯爱故事。并不只写探案，实际朝堂线更重。感觉情感比剧情更好看点（毕竟是纯爱故事）。&lt;/p&gt;
 &lt;h2 id=&#34;普通现代爱情&#34;&gt;普通现代爱情&lt;/h2&gt;
 &lt;h3 id=&#34;流光惊梦&#34;&gt;《流光惊梦》&lt;/h3&gt;
 &lt;p&gt;作者：僵尸嬷嬷&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;i class=&#34;eva eva-star mr-1 text-theme&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
+&lt;p&gt;很残酷也很美好的故事。命运残酷，但是男女主角自始至终都是那么好的两个人。（他们在一起了。但是很想落泪。）&lt;/p&gt;
 &lt;h3 id=&#34;你的距离&#34;&gt;《你的距离》&lt;/h3&gt;
 &lt;p&gt;作者：公子优&lt;/p&gt;
 &lt;p&gt;阅读平台：长佩&lt;/p&gt;
 &lt;p&gt;情感类型：bl&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
-&lt;p&gt;年龄差略大的师生年上，教授与学生阴差阳错开启的恋爱，还是较为少见的德国留学背景，此等冷门题材下作者并不回避主角的性格缺陷，顾及到了双方在这段关系中的成长性。虽说能感受到攻守双方在人设上受到厚爱，文中对人生道路等问题的探讨也是理想化的，但好在这些支线问题并没有咄咄逼人的说教感，与清爽平和的总体风格一致。&lt;/p&gt;
+&lt;p&gt;年龄差略大的师生年上，教授与学生阴差阳错开启的恋爱，还是较为少见的德国留学背景，很喜欢作者并不回避主角的性格缺陷，顾及到了双方在这段关系中的成长性。虽说能感受到攻守双方在人设上受到厚爱，文中对人生道路等问题的探讨也是非常理想化的，但好在这些支线问题并没有咄咄逼人的说教感，与清爽平和的总体风格一致，有一种温柔隽永的余韵。&lt;/p&gt;
 &lt;h3 id=&#34;你的胡子我的围巾&#34;&gt;《你的胡子我的围巾》&lt;/h3&gt;
 &lt;p&gt;作者：映漾&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由： 年龄差十四岁&lt;/p&gt;
 &lt;h3 id=&#34;她真漂亮&#34;&gt;《她真漂亮》&lt;/h3&gt;
 &lt;p&gt;作者：凉蝉&lt;/p&gt;
 &lt;p&gt;阅读平台：晋江&lt;/p&gt;
 &lt;p&gt;情感类型：bg&lt;/p&gt;
-&lt;p&gt;个人评分： ⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;个人评分： &lt;link href=&#34;https://cdn.jsdelivr.net/npm/eva-icons/style/eva-icons.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+&lt;span class=&#34;ml-1 inline-flex align-sub&#34;&gt;&lt;/span&gt;
+&lt;/p&gt;
 &lt;p&gt;推荐理由：&lt;/p&gt;
+&lt;p&gt;演艺圈题材的年下。保镖与演员，年少旧识，各自狼狈不堪挣扎求生的年纪彼此照亮过短暂一瞬，终究要在漩涡中重逢，互见真心。原本不太感冒老套的双向救赎，但是很喜欢作者如何将女主角的原生家庭娓娓道来，关于她的母亲作为母亲之外的女人的一面，她如何与自己和解。这类题材涉及表演情节的时候对虚构的演艺作品的讲述很能反映人物塑造，因为戏里戏外往往互为明暗，因此很欣赏作者安排的剧目对女主角人生的映照。&lt;/p&gt;
 </description>
         </item>
         <item>
